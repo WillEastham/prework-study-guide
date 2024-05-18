@@ -12,8 +12,6 @@ N/A
 
 This Prework Study Guide can be used to learn a little bit about some of the basics of coding. Each section of this guide includes notes about it's specific topic, detailing some of the information I had trouble with and wanted to allow others easier access to. If you open the DevTools console, you will see the JavaScript running, listing each topic and choosing one for us to study at random.
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
