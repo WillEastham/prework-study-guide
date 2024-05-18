@@ -18,8 +18,6 @@ This Prework Study Guide can be used to learn a little bit about some of the bas
 
 N/A
 
-If you followed tutorials, include links to those here as well.
-
 ## License
 
 Please refer to LICENSE in the repo.
