@@ -2,7 +2,7 @@
 
 ## Description
 
-THis application was built to serve as an initial learning point for some of the basics of learning to code. As a newcomer to this field, I built this Prework Study Guide to allow quick and easy access to some of the notes I have taken along my own journey so far. As I built this application, I learned about debugging, applying JavaScript functions, and so much more.
+This application was built to serve as an initial learning point for some of the basics of learning to code. As a newcomer to this field, I built this Prework Study Guide to allow quick and easy access to some of the notes I have taken along my own journey so far. As I built this application, I learned about debugging, applying JavaScript functions, and so much more.
 
 ## Installation
 
